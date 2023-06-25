@@ -12,6 +12,7 @@ Whether you're interested in pursuing a career in software development, enhancin
 
 Join us on this exciting journey and unlock your potential in the world of C programming and algorithmic problem-solving. Get ready to sharpen your coding skills, unleash your creativity, and become a proficient C programmer.
 </p>
+
 ### Note: 📝 This repository is specifically designed for participants of the MINTIC program, but anyone interested in learning C programming and algorithmic thinking is welcome to explore its content.
 
 #### Let's embark on this educational adventure together! Happy coding! 💪🚀
